@@ -1,14 +1,10 @@
 # Phase -Game- Doctor's Battle
 
+![logo](https://user-images.githubusercontent.com/73153949/96556514-1e8a3580-12ca-11eb-8600-263b64bcba90.png)
+
 
 # Game record
 https://drive.google.com/drive/u/0/my-drive
-
- **Doctor’s Battle**
-Game Design Document
-
-
-![logo](https://user-images.githubusercontent.com/73153949/96556514-1e8a3580-12ca-11eb-8600-263b64bcba90.png)
 
 # Project Description
 
@@ -45,22 +41,18 @@ keeps producing little viruses.  The character has only one way to help the city
 This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses. 
 When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
 
-# Gameplay
+# Gameplay/ Goal
 
 This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses.
 When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
 
-
-# Goal
+* Goal
 help the city, destroy the little viruses and the boss.
-
-# User Skills
+* User Skills
 space bar key to shoot, W key to move upward.
-
-# Progression and Challenge
+* Progression and Challenge
 difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.
-
-# Losing
+* Losing
 when viruses touch the doctor
 
 
