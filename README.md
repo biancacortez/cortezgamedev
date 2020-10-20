@@ -2,7 +2,7 @@
 
 
 Game record
-https://drive.google.com/drive/u/1/my-drive
+https://drive.google.com/drive/u/0/my-drive
 
  **Doctor’s Battle**
 Game Design Document
