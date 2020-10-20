@@ -46,12 +46,16 @@ This is a game about hardship. In the story the main goal of the main character 
 
 
 Goals: help the city, destroy the little viruses and the boss.
+
 User Skills: space bar key to shoot, W key to move upward.
-Progression and Challenge - difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.		
+
+Progression and Challenge - difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.
+
 Losing: when viruses touch the doctor
 
 
 Art Style 
+
 This is a 2D game,with high quality 2D sprites using AI, the character design represents what the character should be. The background should be calm to the eyes of the user, with highly animated scenarios and layered backgrounds
 
 
@@ -67,6 +71,7 @@ When the doctor succeed there will be a victory sound
 Technical Description	
  							
 The game will be Mobile Cross-platform: iOS, Android.
+
 Controls -  W key to move upwards,  space bar key to shoot.
 
 Fonts  :  Amazon 
