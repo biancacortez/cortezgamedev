@@ -4,7 +4,7 @@
 
 
 # Game record
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/1AvyDaYnDzekO94NFU5lkkRM55Q9vhnFs/view?usp=sharing
 
 # Project Description
 
