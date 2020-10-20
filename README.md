@@ -98,12 +98,12 @@ Minecraftia
 * ground
 	
 # Characters
-* Doctor-like
-	i. Doctor (walking, shoot )
+* Doctor
+Doctor (walking, shoot )
 * Little Virus
-	i. Virus (walking)
+Virus (walking)
 * Boss
-	i. Big Boss ( producing, flying)
+Big Boss ( producing, flying)
 
 # Background
 
