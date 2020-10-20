@@ -36,12 +36,7 @@ her to destroy the virus through hitting it by a syringe. But the character also
 keeps producing little viruses.  The character has only one way to help the city and it was shooting the boss many times.
 
 
-# Theme
-
-This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses. 
-When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
-
-# Gameplay/ Goal
+# Theme/Gameplay
 
 This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses.
 When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
