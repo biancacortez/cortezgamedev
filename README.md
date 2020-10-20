@@ -83,20 +83,21 @@ Fonts  :  Amazon
 ![minecraftia](https://user-images.githubusercontent.com/73153949/96556925-a7a16c80-12ca-11eb-87dc-9c697639aadf.png)
 
 
-Audio / Music : Main Character shoot
-		     Viruses destroy
-			     Defeat sound
-			     Victory sound
+Audio / Music :
+		Main Character shoot
+		Viruses destroy
+		Defeat sound
+		Victory sound
 
 Graphics: 
 	
 Characters
-Doctor-like
-Doctor (walking, shoot )
-Little Virus
-Virus (walking)
-		     C. Boss
-Big Boss ( producing, flying)
+	Doctor-like
+		i. Doctor (walking, shoot )
+	Little Virus
+		i. Virus (walking)
+	C. Boss
+		i. Big Boss ( producing, flying)
 
 
         Background
