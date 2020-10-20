@@ -1,7 +1,7 @@
-# cortezgamedev
+# Phase -Game- Doctor's Battle
 
 
-Game record
+# Game record
 https://drive.google.com/drive/u/0/my-drive
 
  **Doctor’s Battle**
@@ -12,55 +12,62 @@ Game Design Document
 
 # Project Description
 
-	This game design development improves the strategy skill of the player. The 2D game is based on a fiction story that is played by one player. The main goal of the game is to destroy the big virus to reach victory.
+This game design development improves the strategy skill of the player. The 2D game is based on a fiction story that is played by one player. The main goal of the game is to destroy the big virus to reach victory.
 
 # Character
 
-	The Doctor is the main character in this game. The doctor dedicated a hundred percent of herself to destroying viruses. She used a vaccine through a syringe to shoot viruses and that makes her stronger.
+The Doctor is the main character in this game. The doctor dedicated a hundred percent of herself to destroying viruses.
+She used a vaccine through a syringe to shoot viruses and that makes her stronger.
 
 ![doc](https://user-images.githubusercontent.com/73153949/96557466-5cd42480-12cb-11eb-9b19-1688fe4f8f8c.png)
 
-	The little virus was produced by the boss to destroy the character.
+The little virus was produced by the boss to destroy the character.
 
 ![virus1](https://user-images.githubusercontent.com/73153949/96557521-6d849a80-12cb-11eb-963d-f668a1784a96.png)
 ![virus2](https://user-images.githubusercontent.com/73153949/96557544-74aba880-12cb-11eb-932e-540c14da21de.png)
 
 
-	The angry boss is not easy to kill, especially as he has the skill to shake the ground. The doctor must use a lot of syringe to destroy it to stop producing little viruses.
+The angry boss is not easy to kill, especially as he has the skill to shake the ground.
+The doctor must use a lot of syringe to destroy it to stop producing little viruses.
 
 ![boss](https://user-images.githubusercontent.com/73153949/96557575-7f663d80-12cb-11eb-8b3f-361d035cd4d1.png)
 
 
 # Story
    
-	One night the city was invaded by the viruses to destroy everyone. And there was a doctor who experimented with a vaccine to help her to destroy the virus through hitting it by a syringe. But the character also discovered that the virus has a boss- the one who keeps producing little viruses.  The character has only one way to help the city and it was shooting the boss many times.
+One night the city was invaded by the viruses to destroy everyone. And there was a doctor who experimented with a vaccine to help
+her to destroy the virus through hitting it by a syringe. But the character also discovered that the virus has a boss- the one who
+keeps producing little viruses.  The character has only one way to help the city and it was shooting the boss many times.
 
 
 # Theme
 
-T	his is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses. When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
+This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses. 
+When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
 
 # Gameplay
 
-	This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses. When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
+This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses.
+When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
 
 
 # Goal
-	help the city, destroy the little viruses and the boss.
+help the city, destroy the little viruses and the boss.
 
 # User Skills
-	space bar key to shoot, W key to move upward.
+space bar key to shoot, W key to move upward.
 
 # Progression and Challenge
-	difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.
+difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.
 
 # Losing
-	when viruses touch the doctor
+when viruses touch the doctor
 
 
 # Art Style 
 
-	This is a 2D game,with high quality 2D sprites using AI, the character design represents what the character should be. The background should be calm to the eyes of the user, with highly animated scenarios and layered backgrounds
+This is a 2D game,with high quality 2D sprites using AI, the character design represents what the character should be.
+The background should be calm to the eyes of the user, with highly animated scenarios and layered backgrounds
 
 
 # Music and Sounds					
@@ -74,18 +81,19 @@ T	his is a game about hardship. In the story the main goal of the main character
 
 # Technical Description	
  							
-	The game will be Mobile Cross-platform: iOS, Android.
+The game will be Mobile Cross-platform: iOS, Android.
 
 # Controls  
-	W key to move upwards,  space bar key to shoot.
+* W key to move upwards
+* space bar key to shoot.
 
 # Fonts  
 
-	Amazon 
+Amazon 
 
 ![font](https://user-images.githubusercontent.com/73153949/96556838-8b053480-12ca-11eb-93f5-cb2b33680c98.png)
     
-	Minecraftia
+Minecraftia
 
 ![minecraftia](https://user-images.githubusercontent.com/73153949/96556925-a7a16c80-12ca-11eb-87dc-9c697639aadf.png)
 
