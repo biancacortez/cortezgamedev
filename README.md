@@ -92,6 +92,10 @@ Minecraftia
 * Victory sound
 
 # Graphics: 
+* logo
+* background
+* foreground
+* ground
 	
 # Characters
 * Doctor-like
