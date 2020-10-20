@@ -41,13 +41,13 @@ keeps producing little viruses.  The character has only one way to help the city
 This is a game about hardship. In the story the main goal of the main character is to help the city to destroy viruses.
 When the character can’t kill the boss there will be more hardship because of the increasing number of viruses.
 
-* Goal
+* Goal:
 help the city, destroy the little viruses and the boss.
-* User Skills
+* User Skills:
 space bar key to shoot, W key to move upward.
-* Progression and Challenge
+* Progression and Challenge:
 difficulty occurs when the boss receives the syringe it will move the ground, it becomes harder because producing little viruses is nonstop.
-* Losing
+* Losing:
 when viruses touch the doctor
 
 
