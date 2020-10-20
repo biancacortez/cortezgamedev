@@ -119,12 +119,9 @@ Minecraftia
 
 # Demographics 
 		
-# Age: 
-10 to 50 
-# Sex: 
-Everyone
-# Player:
-Casual players 
+* Age: 10 to 50 
+* Sex: Everyone
+* Player: Casual players 
 
  										
 # Platforms & Monetization
