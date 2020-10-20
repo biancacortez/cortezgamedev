@@ -53,7 +53,7 @@ when viruses touch the doctor
 
 # Art Style 
 
-This is a 2D game,with high quality 2D sprites using AI, the character design represents what the character should be.
+This is a 2D game with high quality 2D sprites using AI, the character design represents what the character should be.
 The background should be calm to the eyes of the user, with highly animated scenarios and layered backgrounds
 
 
@@ -86,20 +86,20 @@ Minecraftia
 
 
 # Audio / Music :
-		* Main Character shoot
-		* Viruses destroy
-		* Defeat sound
-		* Victory sound
+* Main Character shoot
+* Viruses destroy
+* Defeat sound
+* Victory sound
 
 # Graphics: 
 	
 # Characters
-	* Doctor-like
-		i. Doctor (walking, shoot )
-	* Little Virus
-		i. Virus (walking)
-	* Boss
-		i. Big Boss ( producing, flying)
+* Doctor-like
+	i. Doctor (walking, shoot )
+* Little Virus
+	i. Virus (walking)
+* Boss
+	i. Big Boss ( producing, flying)
 
 # Background
 
